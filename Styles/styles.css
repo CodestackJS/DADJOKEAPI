@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+}
+
+.container{
+   display: flex; 
+   align-items: center;
+   height: 500px;
+   justify-content: center;
+}
